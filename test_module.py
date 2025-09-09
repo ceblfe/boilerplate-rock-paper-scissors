@@ -36,3 +36,11 @@ class UnitTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+
+"""
+README:
+Command to run the tests:
+python -m unittest test_module.py
+"""

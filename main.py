@@ -18,3 +18,10 @@ play(human, random_player, 1000)
 
 # Uncomment line below to run unit tests automatically
 main(module='test_module', exit=False)
+
+"""
+README:
+Command to run the tests:
+python main.py
+
+"""
